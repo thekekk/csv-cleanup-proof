@@ -1,0 +1,501 @@
+first_name,last_name,email,signup_date,order_id
+OMAR,garcia,N/A,2024-03-15,?
+Petra,smith,customer1@example.com,01/02/2024,Order 1
+ANNA,Lopez,customer2@example.com,TBD,Order 2
+maria,haddad,customer3@example.com,TBD,Order 3
+Elena,Weber,customer4@example.com,2024-03-15,Order 4
+Omar,khan,customer5@example.com,2024-03-15,?
+John,garcia,customer6@example.com,01/02/2024,Order 6
+ANNA,Weber,N/A,2024-02-28,Order 7
+John,Weber,customer8@example.com,01/02/2024,Order 8
+Petra,haddad,customer9@example.com,TBD,Order 9
+Lena,khan,customer10@example.com,01/02/2024,?
+mike,Haddad,customer11@example.com,N/A,Order 11
+Nikos,PAPADOPOULOS,customer12@example.com,2024-03-15,Order 12
+Nikos,Papadopoulos,customer13@example.com,2024-03-15,Order 13
+Petra,khan,N/A,2024-03-15,Order 14
+john,Lopez,customer15@example.com,01/02/2024,?
+Nikos,Brown,customer16@example.com,2024-03-15,Order 16
+maria,khan,customer17@example.com,2024-03-15,Order 17
+Mike,PAPADOPOULOS,customer18@example.com,2024-03-15,Order 18
+Omar,smith,customer19@example.com,2024-03-15,Order 19
+Petra,BROWN,customer20@example.com,2024-01-05,?
+maria,Georgiou,N/A,2023-12-25,Order 21
+maria,Weber,customer22@example.com,N/A,Order 22
+nikos,haddad,customer23@example.com,2024-02-28,Order 23
+Elena,PAPADOPOULOS,customer24@example.com,2024-03-15,Order 24
+Omar,KIM,customer25@example.com,TBD,?
+maria,Smith,customer26@example.com,2024-02-13,Order 26
+ANNA,Papadopoulos,customer27@example.com,N/A,Order 27
+maria,PAPADOPOULOS,N/A,01/02/2024,Order 28
+nikos,garcia,customer29@example.com,2023-12-25,Order 29
+john,BROWN,customer30@example.com,2024-02-13,?
+nikos,Brown,customer31@example.com,2024-03-15,Order 31
+Mike,Brown,customer32@example.com,01/02/2024,Order 32
+OMAR,smith,customer33@example.com,TBD,Order 33
+Elena,haddad,customer34@example.com,2024-02-13,Order 34
+maria,Haddad,N/A,2024-02-13,?
+Carlos,Weber,customer36@example.com,TBD,Order 36
+ANNA,Lopez,customer37@example.com,?,Order 37
+Sara,smith,customer38@example.com,2024-02-13,Order 38
+Petra,Weber,customer39@example.com,01/02/2024,Order 39
+OMAR,Brown,customer40@example.com,2024-03-15,?
+ANNA,PAPADOPOULOS,customer41@example.com,2024-03-15,Order 41
+Nikos,Brown,N/A,2023-12-25,Order 42
+john,garcia,customer43@example.com,01/02/2024,Order 43
+Elena,Haddad,customer44@example.com,TBD,Order 44
+Mike,KIM,customer45@example.com,2024-02-13,?
+mike,khan,customer46@example.com,2024-02-13,Order 46
+mike,Lopez,customer47@example.com,N/A,Order 47
+Carlos,KIM,customer48@example.com,TBD,Order 48
+Lena,Weber,N/A,N/A,Order 49
+Petra,Haddad,customer50@example.com,2023-12-25,?
+Elena,Haddad,customer51@example.com,2023-12-25,Order 51
+Mike,KIM,customer52@example.com,2024-03-15,Order 52
+Lena,BROWN,customer53@example.com,2024-03-15,Order 53
+Nikos,Smith,customer54@example.com,2024-03-15,Order 54
+Carlos,haddad,customer55@example.com,2024-03-15,?
+Nikos,haddad,N/A,2023-12-25,Order 56
+Omar,garcia,customer57@example.com,2023-12-25,Order 57
+Sara,Haddad,customer58@example.com,?,Order 58
+Lena,smith,customer59@example.com,2024-01-05,Order 59
+nikos,Smith,customer60@example.com,2024-02-13,?
+Petra,garcia,customer61@example.com,2024-02-13,Order 61
+Elena,Weber,customer62@example.com,N/A,Order 62
+Nikos,haddad,N/A,2024-03-15,Order 63
+maria,smith,customer64@example.com,2023-12-25,Order 64
+Carlos,BROWN,customer65@example.com,2024-03-15,?
+Petra,Georgiou,customer66@example.com,TBD,Order 66
+john,Weber,customer67@example.com,2024-03-15,Order 67
+Lena,Georgiou,customer68@example.com,2024-03-15,Order 68
+nikos,haddad,customer69@example.com,N/A,Order 69
+nikos,haddad,N/A,2024-01-05,?
+Omar,KIM,customer71@example.com,2024-03-15,Order 71
+Mike,Papadopoulos,customer72@example.com,2024-03-15,Order 72
+Lena,Papadopoulos,customer73@example.com,2024-01-05,Order 73
+Elena,Smith,customer74@example.com,2024-02-28,Order 74
+Mike,BROWN,customer75@example.com,2024-03-15,?
+maria,Georgiou,customer76@example.com,2024-03-15,Order 76
+Elena,PAPADOPOULOS,N/A,N/A,Order 77
+ANNA,Smith,customer78@example.com,01/02/2024,Order 78
+Elena,Haddad,customer79@example.com,2024-03-15,Order 79
+maria,Novak,customer80@example.com,?,?
+nikos,garcia,customer81@example.com,2024-01-05,Order 81
+Nikos,Lopez,customer82@example.com,2024-03-15,Order 82
+OMAR,BROWN,customer83@example.com,2024-01-05,Order 83
+Carlos,smith,N/A,2024-01-05,Order 84
+nikos,Haddad,customer85@example.com,2023-12-25,?
+ANNA,Georgiou,customer86@example.com,2024-01-05,Order 86
+Nikos,Novak,customer87@example.com,TBD,Order 87
+ANNA,Novak,customer88@example.com,N/A,Order 88
+Sara,haddad,customer89@example.com,2024-02-13,Order 89
+Mike,BROWN,customer90@example.com,2024-01-05,?
+mike,garcia,N/A,01/02/2024,Order 1
+ANNA,garcia,customer92@example.com,2024-03-15,Order 2
+John,Haddad,customer93@example.com,2024-01-05,Order 3
+ANNA,Haddad,customer94@example.com,01/02/2024,Order 4
+John,garcia,customer95@example.com,TBD,?
+OMAR,Smith,customer96@example.com,01/02/2024,Order 6
+maria,Georgiou,customer97@example.com,2024-03-15,Order 7
+nikos,Brown,N/A,2024-03-15,Order 8
+Lena,KIM,customer99@example.com,N/A,Order 9
+OMAR,BROWN,customer100@example.com,01/02/2024,?
+Lena,Lopez,customer101@example.com,TBD,Order 11
+Elena,Georgiou,customer102@example.com,2024-02-28,Order 12
+Omar,BROWN,customer103@example.com,01/02/2024,Order 13
+Nikos,BROWN,customer104@example.com,2023-12-25,Order 14
+ANNA,garcia,N/A,2024-03-15,?
+OMAR,khan,customer106@example.com,2024-03-15,Order 16
+Sara,khan,customer107@example.com,?,Order 17
+nikos,Novak,customer108@example.com,2024-03-15,Order 18
+OMAR,haddad,customer109@example.com,2024-02-13,Order 19
+maria,Smith,customer110@example.com,2023-12-25,?
+Petra,Brown,customer111@example.com,2024-03-15,Order 21
+ANNA,KIM,N/A,01/02/2024,Order 22
+Lena,BROWN,customer113@example.com,2024-03-15,Order 23
+Sara,Lopez,customer114@example.com,N/A,Order 24
+mike,KIM,customer115@example.com,2024-03-15,?
+mike,Papadopoulos,customer116@example.com,2024-01-05,Order 26
+maria,Smith,customer117@example.com,2024-02-13,Order 27
+Lena,PAPADOPOULOS,customer118@example.com,2024-03-15,Order 28
+maria,Georgiou,N/A,01/02/2024,Order 29
+Carlos,khan,customer0@example.com,?,?
+mike,KIM,customer1@example.com,2023-12-25,Order 31
+Elena,Smith,customer2@example.com,2024-03-15,Order 32
+Sara,Smith,customer3@example.com,2023-12-25,Order 33
+john,Georgiou,customer4@example.com,?,Order 34
+john,khan,customer5@example.com,TBD,?
+Petra,Papadopoulos,N/A,2024-01-05,Order 36
+OMAR,Novak,customer7@example.com,?,Order 37
+Carlos,KIM,customer8@example.com,N/A,Order 38
+ANNA,Smith,customer9@example.com,2024-02-28,Order 39
+Petra,Weber,customer10@example.com,2024-03-15,?
+Petra,Brown,customer11@example.com,2024-03-15,Order 41
+John,Haddad,customer12@example.com,?,Order 42
+Lena,Georgiou,N/A,2024-01-05,Order 43
+Carlos,Smith,customer14@example.com,2024-01-05,Order 44
+maria,PAPADOPOULOS,customer15@example.com,2024-03-15,?
+maria,Haddad,customer16@example.com,2024-03-15,Order 46
+OMAR,PAPADOPOULOS,customer17@example.com,01/02/2024,Order 47
+Sara,garcia,customer18@example.com,2024-02-28,Order 48
+ANNA,Haddad,customer19@example.com,2024-02-28,Order 49
+John,Haddad,N/A,2024-03-15,?
+Sara,haddad,customer21@example.com,2024-02-28,Order 51
+Omar,Weber,customer22@example.com,2024-03-15,Order 52
+Elena,smith,customer23@example.com,01/02/2024,Order 53
+OMAR,Novak,customer24@example.com,2024-03-15,Order 54
+ANNA,smith,customer25@example.com,2023-12-25,?
+Carlos,haddad,customer26@example.com,2024-02-13,Order 56
+john,BROWN,N/A,2024-03-15,Order 57
+Elena,Papadopoulos,customer28@example.com,2024-03-15,Order 58
+John,BROWN,customer29@example.com,2024-02-28,Order 59
+Omar,garcia,customer30@example.com,2024-03-15,?
+Lena,KIM,customer31@example.com,2024-01-05,Order 61
+john,Lopez,customer32@example.com,2024-03-15,Order 62
+Elena,garcia,customer33@example.com,01/02/2024,Order 63
+Mike,smith,N/A,2024-03-15,Order 64
+mike,PAPADOPOULOS,customer35@example.com,2024-01-05,?
+Petra,smith,customer36@example.com,2024-02-28,Order 66
+Nikos,haddad,customer37@example.com,2024-01-05,Order 67
+John,haddad,customer38@example.com,2024-01-05,Order 68
+john,Georgiou,customer39@example.com,2024-02-13,Order 69
+maria,Georgiou,customer40@example.com,2024-03-15,?
+john,garcia,N/A,2024-03-15,Order 71
+Petra,Weber,customer42@example.com,2024-03-15,Order 72
+john,smith,customer43@example.com,2024-02-28,Order 73
+ANNA,Novak,customer44@example.com,2024-03-15,Order 74
+ANNA,haddad,customer45@example.com,2024-02-13,?
+nikos,smith,customer46@example.com,2024-01-05,Order 76
+mike,smith,customer47@example.com,2024-03-15,Order 77
+maria,haddad,N/A,2023-12-25,Order 78
+nikos,smith,customer49@example.com,2024-03-15,Order 79
+John,Brown,customer50@example.com,2024-03-15,?
+OMAR,smith,customer51@example.com,2024-03-15,Order 81
+Petra,BROWN,customer52@example.com,2024-01-05,Order 82
+Petra,khan,customer53@example.com,2024-01-05,Order 83
+John,garcia,customer54@example.com,2024-03-15,Order 84
+Elena,Novak,N/A,2024-03-15,?
+Lena,Smith,customer56@example.com,2024-03-15,Order 86
+Omar,Weber,customer57@example.com,2024-03-15,Order 87
+Sara,Lopez,customer58@example.com,2024-03-15,Order 88
+john,Brown,customer59@example.com,2024-03-15,Order 89
+Elena,Brown,customer60@example.com,01/02/2024,?
+OMAR,KIM,customer61@example.com,2024-02-13,Order 1
+maria,Brown,N/A,2024-01-05,Order 2
+Elena,PAPADOPOULOS,customer63@example.com,2023-12-25,Order 3
+Omar,Novak,customer64@example.com,2024-03-15,Order 4
+Elena,Georgiou,customer65@example.com,01/02/2024,?
+nikos,Lopez,customer66@example.com,2024-03-15,Order 6
+Elena,khan,customer67@example.com,2024-03-15,Order 7
+Carlos,Novak,customer68@example.com,2024-03-15,Order 8
+Nikos,Georgiou,N/A,2023-12-25,Order 9
+Nikos,haddad,customer70@example.com,TBD,?
+Nikos,KIM,customer71@example.com,N/A,Order 11
+Carlos,Papadopoulos,customer72@example.com,TBD,Order 12
+maria,khan,customer73@example.com,2024-03-15,Order 13
+nikos,BROWN,customer74@example.com,01/02/2024,Order 14
+ANNA,PAPADOPOULOS,customer75@example.com,?,?
+Mike,smith,N/A,01/02/2024,Order 16
+ANNA,Smith,customer77@example.com,2024-02-13,Order 17
+ANNA,khan,customer78@example.com,2024-03-15,Order 18
+john,PAPADOPOULOS,customer79@example.com,2024-03-15,Order 19
+Nikos,smith,customer80@example.com,2024-03-15,?
+OMAR,Weber,customer81@example.com,2023-12-25,Order 21
+OMAR,PAPADOPOULOS,customer82@example.com,2024-01-05,Order 22
+Mike,Smith,N/A,2024-03-15,Order 23
+Elena,smith,customer84@example.com,2024-03-15,Order 24
+Omar,smith,customer85@example.com,2024-03-15,?
+maria,Haddad,customer86@example.com,2023-12-25,Order 26
+Mike,Novak,customer87@example.com,2024-03-15,Order 27
+Sara,Haddad,customer88@example.com,2024-01-05,Order 28
+maria,khan,customer89@example.com,2024-02-28,Order 29
+ANNA,smith,N/A,2024-03-15,?
+Petra,khan,customer91@example.com,2024-03-15,Order 31
+Lena,Georgiou,customer92@example.com,2024-01-05,Order 32
+OMAR,Novak,customer93@example.com,TBD,Order 33
+Petra,haddad,customer94@example.com,01/02/2024,Order 34
+Mike,khan,customer95@example.com,2024-03-15,?
+OMAR,Georgiou,customer96@example.com,2024-03-15,Order 36
+Omar,Brown,N/A,2024-02-13,Order 37
+nikos,garcia,customer98@example.com,TBD,Order 38
+Elena,smith,customer99@example.com,2024-01-05,Order 39
+john,haddad,customer100@example.com,2023-12-25,?
+Mike,khan,customer101@example.com,TBD,Order 41
+john,Weber,customer102@example.com,2024-03-15,Order 42
+ANNA,khan,customer103@example.com,2024-02-13,Order 43
+Sara,haddad,N/A,TBD,Order 44
+Elena,Lopez,customer105@example.com,2024-02-28,?
+Omar,smith,customer106@example.com,2023-12-25,Order 46
+Lena,PAPADOPOULOS,customer107@example.com,2024-03-15,Order 47
+john,smith,customer108@example.com,01/02/2024,Order 48
+Sara,Papadopoulos,customer109@example.com,2024-02-28,Order 49
+Omar,haddad,customer110@example.com,2024-03-15,?
+mike,BROWN,N/A,?,Order 51
+OMAR,KIM,customer112@example.com,2024-01-05,Order 52
+mike,Papadopoulos,customer113@example.com,TBD,Order 53
+Carlos,haddad,customer114@example.com,2024-03-15,Order 54
+john,Weber,customer115@example.com,2024-02-13,?
+OMAR,Haddad,customer116@example.com,2024-03-15,Order 56
+maria,PAPADOPOULOS,customer117@example.com,01/02/2024,Order 57
+OMAR,smith,N/A,01/02/2024,Order 58
+Nikos,KIM,customer119@example.com,2024-03-15,Order 59
+John,Smith,customer0@example.com,01/02/2024,?
+mike,Haddad,customer1@example.com,2024-03-15,Order 61
+mike,khan,customer2@example.com,2024-02-13,Order 62
+Omar,KIM,customer3@example.com,TBD,Order 63
+Petra,khan,customer4@example.com,?,Order 64
+Sara,KIM,N/A,2024-03-15,?
+OMAR,Novak,customer6@example.com,2024-03-15,Order 66
+Elena,Papadopoulos,customer7@example.com,2024-03-15,Order 67
+Nikos,khan,customer8@example.com,01/02/2024,Order 68
+Carlos,Papadopoulos,customer9@example.com,TBD,Order 69
+Lena,BROWN,customer10@example.com,2024-03-15,?
+Lena,KIM,customer11@example.com,2024-03-15,Order 71
+mike,Lopez,N/A,?,Order 72
+OMAR,Weber,customer13@example.com,2024-01-05,Order 73
+Omar,Brown,customer14@example.com,?,Order 74
+Omar,PAPADOPOULOS,customer15@example.com,TBD,?
+Elena,Weber,customer16@example.com,2023-12-25,Order 76
+nikos,Georgiou,customer17@example.com,2024-01-05,Order 77
+mike,Georgiou,customer18@example.com,2024-03-15,Order 78
+Petra,PAPADOPOULOS,N/A,?,Order 79
+mike,smith,customer20@example.com,01/02/2024,?
+nikos,haddad,customer21@example.com,N/A,Order 81
+Nikos,Papadopoulos,customer22@example.com,2024-01-05,Order 82
+mike,haddad,customer23@example.com,01/02/2024,Order 83
+john,BROWN,customer24@example.com,2024-03-15,Order 84
+Petra,smith,customer25@example.com,01/02/2024,?
+john,Brown,N/A,2024-03-15,Order 86
+Elena,Weber,customer27@example.com,2024-03-15,Order 87
+Carlos,Lopez,customer28@example.com,01/02/2024,Order 88
+Sara,Novak,customer29@example.com,2024-03-15,Order 89
+Petra,KIM,customer30@example.com,2024-03-15,?
+Sara,khan,customer31@example.com,2024-03-15,Order 1
+Lena,BROWN,customer32@example.com,2023-12-25,Order 2
+John,KIM,N/A,2023-12-25,Order 3
+Sara,Georgiou,customer34@example.com,2024-02-28,Order 4
+Petra,Smith,customer35@example.com,2024-02-28,?
+Sara,BROWN,customer36@example.com,2024-03-15,Order 6
+Mike,smith,customer37@example.com,2023-12-25,Order 7
+nikos,Georgiou,customer38@example.com,2023-12-25,Order 8
+Lena,Novak,customer39@example.com,TBD,Order 9
+Lena,Papadopoulos,N/A,2024-02-28,?
+Elena,KIM,customer41@example.com,?,Order 11
+ANNA,smith,customer42@example.com,2023-12-25,Order 12
+mike,Smith,customer43@example.com,2023-12-25,Order 13
+Mike,haddad,customer44@example.com,2024-02-13,Order 14
+Nikos,khan,customer45@example.com,TBD,?
+Carlos,PAPADOPOULOS,customer46@example.com,?,Order 16
+Elena,Lopez,N/A,2024-02-28,Order 17
+Lena,Smith,customer48@example.com,2023-12-25,Order 18
+Omar,Haddad,customer49@example.com,2024-02-13,Order 19
+John,garcia,customer50@example.com,2024-02-13,?
+Sara,Lopez,customer51@example.com,?,Order 21
+Carlos,Smith,customer52@example.com,N/A,Order 22
+Sara,Brown,customer53@example.com,01/02/2024,Order 23
+mike,Brown,N/A,2024-03-15,Order 24
+Nikos,Georgiou,customer55@example.com,2023-12-25,?
+john,Papadopoulos,customer56@example.com,2023-12-25,Order 26
+john,PAPADOPOULOS,customer57@example.com,2024-03-15,Order 27
+mike,Smith,customer58@example.com,TBD,Order 28
+Lena,Smith,customer59@example.com,2024-03-15,Order 29
+ANNA,haddad,customer60@example.com,2024-03-15,?
+Nikos,haddad,N/A,2024-03-15,Order 31
+Nikos,Smith,customer62@example.com,01/02/2024,Order 32
+ANNA,PAPADOPOULOS,customer63@example.com,2024-03-15,Order 33
+Omar,Lopez,customer64@example.com,01/02/2024,Order 34
+Carlos,BROWN,customer65@example.com,2024-02-13,?
+maria,Haddad,customer66@example.com,01/02/2024,Order 36
+mike,Novak,customer67@example.com,N/A,Order 37
+Nikos,Brown,N/A,2024-03-15,Order 38
+Omar,Haddad,customer69@example.com,TBD,Order 39
+Petra,garcia,customer70@example.com,2024-03-15,?
+john,garcia,customer71@example.com,2024-02-28,Order 41
+John,Georgiou,customer72@example.com,N/A,Order 42
+Omar,haddad,customer73@example.com,2023-12-25,Order 43
+Sara,Novak,customer74@example.com,01/02/2024,Order 44
+maria,Haddad,N/A,TBD,?
+nikos,haddad,customer76@example.com,01/02/2024,Order 46
+maria,Novak,customer77@example.com,N/A,Order 47
+nikos,haddad,customer78@example.com,2024-02-28,Order 48
+Nikos,garcia,customer79@example.com,2024-02-28,Order 49
+Nikos,Smith,customer80@example.com,2024-03-15,?
+Lena,khan,customer81@example.com,2024-02-13,Order 51
+Mike,garcia,N/A,2024-01-05,Order 52
+OMAR,Brown,customer83@example.com,2024-03-15,Order 53
+nikos,khan,customer84@example.com,?,Order 54
+maria,khan,customer85@example.com,2024-03-15,?
+OMAR,Georgiou,customer86@example.com,?,Order 56
+Petra,Lopez,customer87@example.com,2023-12-25,Order 57
+Carlos,Novak,customer88@example.com,2024-01-05,Order 58
+OMAR,smith,N/A,2024-02-28,Order 59
+Nikos,Georgiou,customer90@example.com,2024-01-05,?
+Nikos,BROWN,customer91@example.com,?,Order 61
+Sara,PAPADOPOULOS,customer92@example.com,TBD,Order 62
+Omar,smith,customer93@example.com,2024-03-15,Order 63
+nikos,KIM,customer94@example.com,2024-03-15,Order 64
+john,Georgiou,customer95@example.com,?,?
+ANNA,Papadopoulos,N/A,?,Order 66
+Omar,Haddad,customer97@example.com,2024-02-13,Order 67
+Sara,Brown,customer98@example.com,2024-03-15,Order 68
+mike,PAPADOPOULOS,customer99@example.com,2024-03-15,Order 69
+Carlos,BROWN,customer100@example.com,01/02/2024,?
+Mike,Papadopoulos,customer101@example.com,N/A,Order 71
+Mike,smith,customer102@example.com,2024-02-28,Order 72
+Petra,Georgiou,N/A,N/A,Order 73
+Lena,Smith,customer104@example.com,2024-01-05,Order 74
+ANNA,garcia,customer105@example.com,01/02/2024,?
+Petra,khan,customer106@example.com,?,Order 76
+Lena,Papadopoulos,customer107@example.com,01/02/2024,Order 77
+Petra,BROWN,customer108@example.com,2024-02-13,Order 78
+Petra,BROWN,customer109@example.com,?,Order 79
+Nikos,Smith,N/A,2024-03-15,?
+john,KIM,customer111@example.com,2023-12-25,Order 81
+Petra,KIM,customer112@example.com,N/A,Order 82
+OMAR,Haddad,customer113@example.com,2024-03-15,Order 83
+mike,Weber,customer114@example.com,2024-01-05,Order 84
+Mike,khan,customer115@example.com,TBD,?
+Lena,Brown,customer116@example.com,2024-03-15,Order 86
+Petra,BROWN,N/A,N/A,Order 87
+john,smith,customer118@example.com,01/02/2024,Order 88
+maria,Novak,customer119@example.com,01/02/2024,Order 89
+Mike,garcia,customer0@example.com,TBD,?
+Lena,Papadopoulos,customer1@example.com,TBD,Order 1
+Carlos,KIM,customer2@example.com,01/02/2024,Order 2
+Petra,BROWN,customer3@example.com,N/A,Order 3
+Petra,Haddad,N/A,2024-01-05,Order 4
+Omar,smith,customer5@example.com,2024-03-15,?
+nikos,KIM,customer6@example.com,N/A,Order 6
+ANNA,Brown,customer7@example.com,2024-03-15,Order 7
+john,Smith,customer8@example.com,TBD,Order 8
+Lena,Lopez,customer9@example.com,N/A,Order 9
+John,Smith,customer10@example.com,2024-01-05,?
+john,Novak,N/A,2024-03-15,Order 11
+OMAR,PAPADOPOULOS,customer12@example.com,?,Order 12
+maria,PAPADOPOULOS,customer13@example.com,2024-03-15,Order 13
+Omar,smith,customer14@example.com,?,Order 14
+mike,BROWN,customer15@example.com,2024-03-15,?
+Carlos,Smith,customer16@example.com,N/A,Order 16
+nikos,BROWN,customer17@example.com,2024-03-15,Order 17
+nikos,garcia,N/A,2023-12-25,Order 18
+mike,garcia,customer19@example.com,2024-02-28,Order 19
+OMAR,haddad,customer20@example.com,2024-03-15,?
+Carlos,Lopez,customer21@example.com,2024-02-28,Order 21
+john,garcia,customer22@example.com,01/02/2024,Order 22
+maria,Weber,customer23@example.com,2023-12-25,Order 23
+Omar,Haddad,customer24@example.com,2024-02-28,Order 24
+ANNA,Papadopoulos,N/A,2024-01-05,?
+Sara,BROWN,customer26@example.com,?,Order 26
+john,PAPADOPOULOS,customer27@example.com,2024-02-28,Order 27
+Sara,smith,customer28@example.com,2024-02-28,Order 28
+Omar,Smith,customer29@example.com,2024-02-28,Order 29
+Petra,garcia,customer30@example.com,01/02/2024,?
+OMAR,KIM,customer31@example.com,N/A,Order 31
+OMAR,garcia,N/A,2024-03-15,Order 32
+ANNA,Lopez,customer33@example.com,2024-01-05,Order 33
+maria,Lopez,customer34@example.com,2024-03-15,Order 34
+Sara,BROWN,customer35@example.com,TBD,?
+Omar,BROWN,customer36@example.com,N/A,Order 36
+John,KIM,customer37@example.com,N/A,Order 37
+Petra,smith,customer38@example.com,TBD,Order 38
+nikos,BROWN,N/A,2024-03-15,Order 39
+OMAR,KIM,customer40@example.com,N/A,?
+Nikos,Papadopoulos,customer41@example.com,2024-02-13,Order 41
+Omar,haddad,customer42@example.com,01/02/2024,Order 42
+Sara,garcia,customer43@example.com,2024-01-05,Order 43
+ANNA,haddad,customer44@example.com,2024-03-15,Order 44
+Elena,smith,customer45@example.com,2024-03-15,?
+maria,Smith,N/A,2024-03-15,Order 46
+Nikos,smith,customer47@example.com,2024-02-28,Order 47
+Petra,PAPADOPOULOS,customer48@example.com,2024-02-28,Order 48
+Elena,smith,customer49@example.com,?,Order 49
+maria,BROWN,customer50@example.com,TBD,?
+john,Novak,customer51@example.com,2023-12-25,Order 51
+john,Weber,customer52@example.com,2024-01-05,Order 52
+mike,BROWN,N/A,2024-03-15,Order 53
+Omar,Smith,customer54@example.com,2023-12-25,Order 54
+Petra,Brown,customer55@example.com,2024-02-28,?
+john,Smith,customer56@example.com,2024-03-15,Order 56
+ANNA,haddad,customer57@example.com,2024-02-28,Order 57
+Omar,Smith,customer58@example.com,2024-02-13,Order 58
+nikos,smith,customer59@example.com,2024-02-28,Order 59
+John,Papadopoulos,N/A,2024-03-15,?
+mike,Weber,customer61@example.com,2024-02-13,Order 61
+mike,Georgiou,customer62@example.com,N/A,Order 62
+Carlos,Haddad,customer63@example.com,2023-12-25,Order 63
+OMAR,PAPADOPOULOS,customer64@example.com,?,Order 64
+maria,BROWN,customer65@example.com,2024-03-15,?
+Sara,Brown,customer66@example.com,2024-03-15,Order 66
+OMAR,garcia,N/A,2024-03-15,Order 67
+Mike,khan,customer68@example.com,TBD,Order 68
+mike,smith,customer69@example.com,2024-02-13,Order 69
+Sara,PAPADOPOULOS,customer70@example.com,2024-01-05,?
+John,BROWN,customer71@example.com,2024-03-15,Order 71
+Mike,smith,customer72@example.com,2024-03-15,Order 72
+maria,Papadopoulos,customer73@example.com,2023-12-25,Order 73
+nikos,Weber,N/A,2024-03-15,Order 74
+OMAR,PAPADOPOULOS,customer75@example.com,2024-01-05,?
+mike,khan,customer76@example.com,2024-03-15,Order 76
+ANNA,Weber,customer77@example.com,2024-03-15,Order 77
+Omar,Papadopoulos,customer78@example.com,?,Order 78
+OMAR,BROWN,customer79@example.com,2024-03-15,Order 79
+ANNA,smith,customer80@example.com,2024-01-05,?
+Carlos,Georgiou,N/A,N/A,Order 81
+mike,Georgiou,customer82@example.com,TBD,Order 82
+mike,garcia,customer83@example.com,2024-03-15,Order 83
+OMAR,Haddad,customer84@example.com,01/02/2024,Order 84
+Petra,Lopez,customer85@example.com,N/A,?
+Lena,Smith,customer86@example.com,2024-01-05,Order 86
+Sara,garcia,customer87@example.com,01/02/2024,Order 87
+nikos,Georgiou,N/A,2024-03-15,Order 88
+mike,garcia,customer89@example.com,2024-02-13,Order 89
+nikos,Lopez,customer90@example.com,?,?
+Elena,Novak,customer91@example.com,N/A,Order 1
+Lena,Novak,customer92@example.com,N/A,Order 2
+Sara,PAPADOPOULOS,customer93@example.com,?,Order 3
+mike,KIM,customer94@example.com,?,Order 4
+Lena,Lopez,N/A,2023-12-25,?
+ANNA,Georgiou,customer96@example.com,2024-02-28,Order 6
+Lena,Novak,customer97@example.com,2024-03-15,Order 7
+nikos,garcia,customer98@example.com,N/A,Order 8
+Nikos,Papadopoulos,customer99@example.com,2023-12-25,Order 9
+Mike,Georgiou,customer100@example.com,2024-01-05,?
+john,PAPADOPOULOS,customer101@example.com,2024-03-15,Order 11
+john,Novak,N/A,N/A,Order 12
+nikos,Haddad,customer103@example.com,2024-02-28,Order 13
+OMAR,BROWN,customer104@example.com,2024-03-15,Order 14
+mike,Weber,customer105@example.com,?,?
+Mike,Brown,customer106@example.com,2024-01-05,Order 16
+Nikos,Weber,customer107@example.com,2023-12-25,Order 17
+mike,Georgiou,customer108@example.com,2024-03-15,Order 18
+nikos,KIM,N/A,TBD,Order 19
+ANNA,Haddad,customer110@example.com,2023-12-25,?
+ANNA,PAPADOPOULOS,customer111@example.com,2023-12-25,Order 21
+John,Brown,customer112@example.com,TBD,Order 22
+mike,Novak,customer113@example.com,2023-12-25,Order 23
+Sara,haddad,customer114@example.com,2024-02-13,Order 24
+Carlos,BROWN,customer115@example.com,2024-03-15,?
+Carlos,Weber,N/A,2024-02-28,Order 26
+Mike,PAPADOPOULOS,customer117@example.com,2024-03-15,Order 27
+nikos,PAPADOPOULOS,customer118@example.com,?,Order 28
+maria,Weber,customer119@example.com,?,Order 29
+John,Novak,customer0@example.com,2024-03-15,?
+Sara,PAPADOPOULOS,customer1@example.com,2024-02-13,Order 31
+Carlos,garcia,customer2@example.com,?,Order 32
+Nikos,smith,N/A,2024-03-15,Order 33
+Omar,Novak,customer4@example.com,2023-12-25,Order 34
+OMAR,garcia,customer5@example.com,2024-03-15,?
+nikos,haddad,customer6@example.com,2024-01-05,Order 36
+Sara,Brown,customer7@example.com,2024-02-13,Order 37
+Petra,Georgiou,customer8@example.com,?,Order 38
+nikos,Weber,customer9@example.com,2024-03-15,Order 39
+Omar,garcia,N/A,01/02/2024,?
+OMAR,haddad,customer11@example.com,N/A,Order 41
+ANNA,Novak,customer12@example.com,2024-03-15,Order 42
+Sara,garcia,customer13@example.com,2024-02-13,Order 43
+Petra,PAPADOPOULOS,customer14@example.com,2024-03-15,Order 44
+mike,Lopez,customer15@example.com,TBD,?
+john,Georgiou,customer16@example.com,2024-03-15,Order 46
+John,Brown,N/A,2024-03-15,Order 47
+john,Brown,customer18@example.com,2024-03-15,Order 48
+Sara,Lopez,customer19@example.com,01/02/2024,Order 49

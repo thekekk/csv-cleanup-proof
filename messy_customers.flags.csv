@@ -1,0 +1,466 @@
+row,column,original_value,reason
+2,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+2,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+3,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+4,signup_date,TBD,unparseable date - left as-is
+4,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+5,signup_date,TBD,unparseable date - left as-is
+5,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+7,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+8,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+9,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+10,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+11,signup_date,TBD,unparseable date - left as-is
+11,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+12,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+12,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+13,signup_date,N/A,unparseable date - left as-is
+13,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+16,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+17,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+17,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+22,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+23,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+24,signup_date,N/A,unparseable date - left as-is
+24,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+27,signup_date,TBD,unparseable date - left as-is
+27,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+27,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+29,signup_date,N/A,unparseable date - left as-is
+29,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+30,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+30,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+32,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+34,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+35,signup_date,TBD,unparseable date - left as-is
+35,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+37,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+37,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+38,signup_date,TBD,unparseable date - left as-is
+38,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+39,signup_date,?,unparseable date - left as-is
+39,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+41,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+42,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+44,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+45,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+46,signup_date,TBD,unparseable date - left as-is
+46,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+47,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+49,signup_date,N/A,unparseable date - left as-is
+49,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+50,signup_date,TBD,unparseable date - left as-is
+50,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+51,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+51,signup_date,N/A,unparseable date - left as-is
+51,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+52,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+57,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+58,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+60,signup_date,?,unparseable date - left as-is
+60,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+62,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+64,signup_date,N/A,unparseable date - left as-is
+64,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+65,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+67,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+68,signup_date,TBD,unparseable date - left as-is
+68,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+71,signup_date,N/A,unparseable date - left as-is
+71,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+72,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+72,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+77,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+79,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+79,signup_date,N/A,unparseable date - left as-is
+79,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+80,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+82,signup_date,?,unparseable date - left as-is
+82,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+82,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+86,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+87,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+89,signup_date,TBD,unparseable date - left as-is
+89,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+90,signup_date,N/A,unparseable date - left as-is
+90,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+92,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+93,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+93,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+96,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+97,signup_date,TBD,unparseable date - left as-is
+97,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+97,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+98,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+100,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+101,signup_date,N/A,unparseable date - left as-is
+101,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+102,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+102,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+103,signup_date,TBD,unparseable date - left as-is
+103,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+105,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+107,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+107,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+109,signup_date,?,unparseable date - left as-is
+109,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+112,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+114,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+114,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+116,signup_date,N/A,unparseable date - left as-is
+116,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+117,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+121,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+121,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+122,signup_date,?,unparseable date - left as-is
+122,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+122,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+126,signup_date,?,unparseable date - left as-is
+126,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+127,signup_date,TBD,unparseable date - left as-is
+127,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+127,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+128,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+129,signup_date,?,unparseable date - left as-is
+129,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+130,signup_date,N/A,unparseable date - left as-is
+130,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+132,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+134,signup_date,?,unparseable date - left as-is
+134,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+135,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+137,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+139,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+142,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+142,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+145,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+147,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+149,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+152,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+155,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+156,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+157,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+162,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+163,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+167,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+170,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+172,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+177,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+177,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+182,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+182,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+184,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+187,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+187,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+191,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+192,signup_date,TBD,unparseable date - left as-is
+192,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+192,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+193,signup_date,N/A,unparseable date - left as-is
+193,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+194,signup_date,TBD,unparseable date - left as-is
+194,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+196,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+197,signup_date,?,unparseable date - left as-is
+197,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+197,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+198,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+198,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+202,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+205,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+207,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+212,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+212,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+215,signup_date,TBD,unparseable date - left as-is
+215,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+216,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+217,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+219,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+220,signup_date,TBD,unparseable date - left as-is
+220,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+222,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+223,signup_date,TBD,unparseable date - left as-is
+223,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+226,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+226,signup_date,TBD,unparseable date - left as-is
+226,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+227,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+230,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+232,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+233,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+233,signup_date,?,unparseable date - left as-is
+233,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+235,signup_date,TBD,unparseable date - left as-is
+235,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+237,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+239,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+240,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+240,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+242,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+242,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+245,signup_date,TBD,unparseable date - left as-is
+245,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+246,signup_date,?,unparseable date - left as-is
+246,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+247,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+247,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+250,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+251,signup_date,TBD,unparseable date - left as-is
+251,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+252,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+254,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+254,signup_date,?,unparseable date - left as-is
+254,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+256,signup_date,?,unparseable date - left as-is
+256,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+257,signup_date,TBD,unparseable date - left as-is
+257,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+257,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+261,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+261,signup_date,?,unparseable date - left as-is
+261,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+262,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+262,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+263,signup_date,N/A,unparseable date - left as-is
+263,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+265,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+267,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+267,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+268,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+270,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+272,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+275,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+277,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+281,signup_date,TBD,unparseable date - left as-is
+281,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+282,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+282,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+283,signup_date,?,unparseable date - left as-is
+283,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+287,signup_date,TBD,unparseable date - left as-is
+287,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+287,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+288,signup_date,?,unparseable date - left as-is
+288,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+289,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+292,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+293,signup_date,?,unparseable date - left as-is
+293,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+294,signup_date,N/A,unparseable date - left as-is
+294,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+295,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+296,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+297,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+300,signup_date,TBD,unparseable date - left as-is
+300,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+302,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+303,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+304,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+306,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+307,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+308,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+309,signup_date,N/A,unparseable date - left as-is
+309,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+310,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+311,signup_date,TBD,unparseable date - left as-is
+311,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+312,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+314,signup_date,N/A,unparseable date - left as-is
+314,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+316,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+317,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+317,signup_date,TBD,unparseable date - left as-is
+317,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+317,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+318,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+319,signup_date,N/A,unparseable date - left as-is
+319,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+322,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+324,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+326,signup_date,?,unparseable date - left as-is
+326,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+327,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+328,signup_date,?,unparseable date - left as-is
+328,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+331,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+332,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+333,signup_date,?,unparseable date - left as-is
+333,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+334,signup_date,TBD,unparseable date - left as-is
+334,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+337,signup_date,?,unparseable date - left as-is
+337,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+337,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+338,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+338,signup_date,?,unparseable date - left as-is
+338,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+342,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+342,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+343,signup_date,N/A,unparseable date - left as-is
+343,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+345,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+345,signup_date,N/A,unparseable date - left as-is
+345,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+347,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+347,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+348,signup_date,?,unparseable date - left as-is
+348,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+349,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+351,signup_date,?,unparseable date - left as-is
+351,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+352,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+352,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+354,signup_date,N/A,unparseable date - left as-is
+354,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+357,signup_date,TBD,unparseable date - left as-is
+357,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+357,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+359,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+359,signup_date,N/A,unparseable date - left as-is
+359,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+360,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+361,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+362,signup_date,TBD,unparseable date - left as-is
+362,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+362,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+363,signup_date,TBD,unparseable date - left as-is
+363,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+364,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+365,signup_date,N/A,unparseable date - left as-is
+365,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+366,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+367,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+368,signup_date,N/A,unparseable date - left as-is
+368,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+370,signup_date,TBD,unparseable date - left as-is
+370,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+371,signup_date,N/A,unparseable date - left as-is
+371,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+372,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+373,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+374,signup_date,?,unparseable date - left as-is
+374,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+376,signup_date,?,unparseable date - left as-is
+376,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+377,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+378,signup_date,N/A,unparseable date - left as-is
+378,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+380,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+382,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+384,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+387,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+387,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+388,signup_date,?,unparseable date - left as-is
+388,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+392,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+392,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+393,signup_date,N/A,unparseable date - left as-is
+393,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+394,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+397,signup_date,TBD,unparseable date - left as-is
+397,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+397,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+398,signup_date,N/A,unparseable date - left as-is
+398,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+399,signup_date,N/A,unparseable date - left as-is
+399,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+400,signup_date,TBD,unparseable date - left as-is
+400,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+401,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+402,signup_date,N/A,unparseable date - left as-is
+402,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+402,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+404,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+407,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+408,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+411,signup_date,?,unparseable date - left as-is
+411,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+412,signup_date,TBD,unparseable date - left as-is
+412,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+412,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+415,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+417,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+422,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+422,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+424,signup_date,N/A,unparseable date - left as-is
+424,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+426,signup_date,?,unparseable date - left as-is
+426,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+427,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+429,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+430,signup_date,TBD,unparseable date - left as-is
+430,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+432,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+436,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+437,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+440,signup_date,?,unparseable date - left as-is
+440,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+442,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+443,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+443,signup_date,N/A,unparseable date - left as-is
+443,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+444,signup_date,TBD,unparseable date - left as-is
+444,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+446,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+447,signup_date,N/A,unparseable date - left as-is
+447,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+447,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+449,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+450,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+452,signup_date,?,unparseable date - left as-is
+452,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+452,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+453,signup_date,N/A,unparseable date - left as-is
+453,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+454,signup_date,N/A,unparseable date - left as-is
+454,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+455,signup_date,?,unparseable date - left as-is
+455,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+456,signup_date,?,unparseable date - left as-is
+456,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+457,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+457,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+460,signup_date,N/A,unparseable date - left as-is
+460,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+462,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+464,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+464,signup_date,N/A,unparseable date - left as-is
+464,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+467,signup_date,?,unparseable date - left as-is
+467,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+467,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+471,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+471,signup_date,TBD,unparseable date - left as-is
+471,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+472,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+474,signup_date,TBD,unparseable date - left as-is
+474,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+477,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+478,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+480,signup_date,?,unparseable date - left as-is
+480,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+481,signup_date,?,unparseable date - left as-is
+481,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+482,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+484,signup_date,?,unparseable date - left as-is
+484,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+485,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+487,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+490,signup_date,?,unparseable date - left as-is
+490,signup_date,?,"ambiguous placeholder value - left as-is, please confirm"
+492,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+492,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+492,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+493,signup_date,N/A,unparseable date - left as-is
+493,signup_date,N/A,"ambiguous placeholder value - left as-is, please confirm"
+497,signup_date,TBD,unparseable date - left as-is
+497,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+497,order_id,?,"ambiguous placeholder value - left as-is, please confirm"
+499,email,N/A,"ambiguous placeholder value - left as-is, please confirm"
+501,signup_date,01/02/2024,"ambiguous date — left as-is, please confirm"
+502,signup_date,TBD,unparseable date - left as-is
+502,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+504,signup_date,TBD,unparseable date - left as-is
+504,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
+505,signup_date,TBD,unparseable date - left as-is
+505,signup_date,TBD,"ambiguous placeholder value - left as-is, please confirm"
